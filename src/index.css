@@ -26,4 +26,5 @@ body {
 
 ul {
   overflow-x: auto;
+  scrollbar-width: thin;
 }
